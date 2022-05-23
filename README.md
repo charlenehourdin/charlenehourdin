@@ -1,10 +1,9 @@
 
-<h1>:wave: Hi I'm Charlène !</h1>
-<p align="justify">Welcome to my profile! Passionate about the field of artificial intelligence and programming, I chose to start my retraining by following an AI developer training course at the Microsoft - Simplon school.
-Convinced of having found my way, I continue to improve myself by training to become an AI engineer at the Openclassrooms - Microsoft school.
+<h1>:wave: Salut, je suis Charlène !</h1>
+<p align="justify">Bienvenue sur ma page personnelle! Passionné par le domaine de l'intelligence artificielle et de la programmation, j'ai choisi de débuter ma reconversion par une formation de développeur IA à l'école Microsoft - Simplon.co. Convaincu d'avoir trouvé ma voie,je continue à me perfectionner en me formant pour devenir ingénieur IA chez Openclassrooms - Microsoft.
 </p>
 
-<h2><u><b>⭐ My Knowledges</b></u></h2>
+<h2><u><b>⭐ Mes connaissances</b></u></h2>
 <h3>~ Languages</h3>
 <p>
   <a href="https://www.python.org/" target="_blank"> 
