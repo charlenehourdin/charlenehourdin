@@ -1,6 +1,6 @@
 
 <h1>:wave: Salut, je suis Charlène !</h1>
-<p align="justify">Bienvenue sur ma page personnelle! Passionné par le domaine de l'intelligence artificielle et de la programmation, j'ai choisi de débuter ma reconversion par une formation de développeur IA à l'école Microsoft - Simplon.co. Convaincu d'avoir trouvé ma voie,je continue à me perfectionner en me formant pour devenir ingénieur IA chez Openclassrooms - Microsoft.
+<p align="justify">Bienvenue sur ma page personnelle! Passionnée par le domaine de l'intelligence artificielle et de la programmation, j'ai choisi de débuter ma reconversion par une formation de développeur IA à l'école Microsoft - Simplon.co. Convaincu d'avoir trouvé ma voie, je continue à me perfectionner en me formant pour devenir ingénieur IA chez Openclassrooms - Microsoft.
 </p>
 
 <h2><u><b>⭐ Mes connaissances</b></u></h2>
